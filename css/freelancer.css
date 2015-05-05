@@ -36,7 +36,7 @@ h6 {
     font-weight: 700;
 }
 
-hr.star-light,
+/*hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -73,7 +73,7 @@ hr.star-primary {
 hr.star-primary:after {
     color: #2c3e50;
     background-color: #fff;
-}
+}*/
 
 .img-centered {
     margin: 0 auto;
@@ -358,8 +358,8 @@ footer .footer-below {
 
 .btn-social {
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 48px;
+    height: 48px;
     border: 2px solid #fff;
     border-radius: 100%;
     text-align: center;
